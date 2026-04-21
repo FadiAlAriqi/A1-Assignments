@@ -1,0 +1,9 @@
+#!/bin/bash
+
+PROJECT_DIR="/opt/scraping-system"
+
+cd $PROJECT_DIR
+
+source venv/bin/activate
+
+uvicorn app.main:app --host 0.0.0.0 --port 8000
