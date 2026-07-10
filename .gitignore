@@ -1,0 +1,5 @@
+# Database/Data volumes
+Final-Project-of-Data-Engeneering-Bootcamp/postgres_data/
+Final-Project-of-Data-Engeneering-Bootcamp/grafana_data/
+Final-Project-of-Data-Engeneering-Bootcamp/clickhouse_data/
+Final-Project-of-Data-Engeneering-Bootcamp/Spark_Processor/clickhouse_checkpoint/
